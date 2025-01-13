@@ -1,0 +1,60 @@
+### YamlMime:ManagedReference
+items:
+- uid: ASE_UTKARSHA_KHADKA_77356752.MyApp
+  commentId: N:ASE_UTKARSHA_KHADKA_77356752.MyApp
+  id: ASE_UTKARSHA_KHADKA_77356752.MyApp
+  children:
+  - ASE_UTKARSHA_KHADKA_77356752.MyApp.AppParser
+  - ASE_UTKARSHA_KHADKA_77356752.MyApp.MyAppCanvas
+  - ASE_UTKARSHA_KHADKA_77356752.MyApp.MyAppCommandFactory
+  langs:
+  - csharp
+  - vb
+  name: ASE_UTKARSHA_KHADKA_77356752.MyApp
+  nameWithType: ASE_UTKARSHA_KHADKA_77356752.MyApp
+  fullName: ASE_UTKARSHA_KHADKA_77356752.MyApp
+  type: Namespace
+  assemblies:
+  - ASE_UTKARSHA_KHADKA_77356752
+references:
+- uid: ASE_UTKARSHA_KHADKA_77356752.MyApp.AppParser
+  commentId: T:ASE_UTKARSHA_KHADKA_77356752.MyApp.AppParser
+  href: ASE_UTKARSHA_KHADKA_77356752.MyApp.AppParser.html
+  name: AppParser
+  nameWithType: AppParser
+  fullName: ASE_UTKARSHA_KHADKA_77356752.MyApp.AppParser
+- uid: ASE_UTKARSHA_KHADKA_77356752.MyApp.MyAppCanvas
+  commentId: T:ASE_UTKARSHA_KHADKA_77356752.MyApp.MyAppCanvas
+  parent: ASE_UTKARSHA_KHADKA_77356752.MyApp
+  href: ASE_UTKARSHA_KHADKA_77356752.MyApp.MyAppCanvas.html
+  name: MyAppCanvas
+  nameWithType: MyAppCanvas
+  fullName: ASE_UTKARSHA_KHADKA_77356752.MyApp.MyAppCanvas
+- uid: ASE_UTKARSHA_KHADKA_77356752.MyApp.MyAppCommandFactory
+  commentId: T:ASE_UTKARSHA_KHADKA_77356752.MyApp.MyAppCommandFactory
+  href: ASE_UTKARSHA_KHADKA_77356752.MyApp.MyAppCommandFactory.html
+  name: MyAppCommandFactory
+  nameWithType: MyAppCommandFactory
+  fullName: ASE_UTKARSHA_KHADKA_77356752.MyApp.MyAppCommandFactory
+- uid: ASE_UTKARSHA_KHADKA_77356752.MyApp
+  commentId: N:ASE_UTKARSHA_KHADKA_77356752.MyApp
+  href: ASE_UTKARSHA_KHADKA_77356752.html
+  name: ASE_UTKARSHA_KHADKA_77356752.MyApp
+  nameWithType: ASE_UTKARSHA_KHADKA_77356752.MyApp
+  fullName: ASE_UTKARSHA_KHADKA_77356752.MyApp
+  spec.csharp:
+  - uid: ASE_UTKARSHA_KHADKA_77356752
+    name: ASE_UTKARSHA_KHADKA_77356752
+    href: ASE_UTKARSHA_KHADKA_77356752.html
+  - name: .
+  - uid: ASE_UTKARSHA_KHADKA_77356752.MyApp
+    name: MyApp
+    href: ASE_UTKARSHA_KHADKA_77356752.MyApp.html
+  spec.vb:
+  - uid: ASE_UTKARSHA_KHADKA_77356752
+    name: ASE_UTKARSHA_KHADKA_77356752
+    href: ASE_UTKARSHA_KHADKA_77356752.html
+  - name: .
+  - uid: ASE_UTKARSHA_KHADKA_77356752.MyApp
+    name: MyApp
+    href: ASE_UTKARSHA_KHADKA_77356752.MyApp.html
